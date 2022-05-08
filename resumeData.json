@@ -46,7 +46,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":null,
     "education":[
       {
         "school":"University?",
@@ -77,32 +77,29 @@
     ],
     "skills":[
       {
-        "name":"Python",
-        "level":"60%"
+        "name":"FILMS",
+        "description" : "L’art de raconter une histoire ! Notre devise : Qualité, Créativité, Originalité.",
+        "level":"100%"
       },
       {
-        "name":"VueJs",
-        "level":"55%"
+        "name":"MOTION DESIGN",
+        "level":"100%"
       },
       {
-        "name":"ReactJs",
-        "level":"50%"
+        "name":"DRONE",
+        "level":"100%"
       },
       {
-        "name":"CSS",
-        "level":"90%"
+        "name":"PHOTOGRAPHY",
+        "level":"100%"
       },
       {
-        "name":"PHP",
-        "level":"80%"
+        "name":"WEBSITES - APPLICATIONS",
+        "level":"100%"
       },
       {
-        "name":"Swift",
-        "level":"50%"
-      },
-      {
-        "name":"JAVA",
-        "level":"80%"
+        "name":"WEB MARKETING",
+        "level":"100%"
       }
     ]
   },
