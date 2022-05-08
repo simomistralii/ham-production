@@ -1,0 +1,186 @@
+{
+  "main": {
+    "name":"Ham Production",
+    "description":"AGENCE DE PRODUCTION AUDIOVISUELLE CAEN",
+    "image":"https://ham-production.com/assets/images/hamza_517.png",
+    "bio":"Fort d’une expérience professionnelle de plus de dix ans, nous sommes en mesure de répondre à toutes vos demandes de toutes sortes. Notre agence de production audiovisuel à Caen, Ham-Prod vous garantit une couverture Médiatique, vidéographique et cinématographique de haute qualité comprenant toutes les étapes requises à la réalisation de votre demande.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "contact@ham-production.com",
+    "phone": "+33 7 68 68 56 26",
+    "github":null,
+    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "address":{
+      "street":null,
+      "city":null,
+      "state":null,
+      "zip": null
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/HamProd.Agency",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":null,
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/ham_prod/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":null,
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"University?",
+        "degree":"Masters in Beer tasting",
+        "graduated":"April 2017",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school":"School #1 Maybe College?",
+        "degree":"What did you study 101",
+        "graduated":"March 2013",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work":[
+      {
+        "company":"Awesome Design Studio",
+        "title":"Senior UX God ",
+        "years":"March 2018 - Present",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Super Cool Studio",
+        "title":"Junior bug fixer",
+        "years":"March 2017 - February 2018",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"60%"
+      },
+      {
+        "name":"VueJs",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"PHP",
+        "level":"80%"
+      },
+      {
+        "name":"Swift",
+        "level":"50%"
+      },
+      {
+        "name":"JAVA",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"KINO",
+        "category":"COURT-METRAGE",
+        "image":"01.jpg",
+        "urlvideo": "https://www.youtube.com/watch?v=2IUHZa6qCKs",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"1000M MEETING MONDEVILLE",
+        "category":"SPORT",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"BEAUREGARD 2018",
+        "category":"AFTER-MOVIE",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"DOC BONBON POUR DEUX",
+        "category":"DOCUMENTAIRE",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"FILM POIGNÉE DE SABLE",
+        "category":"PROMO",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"40ANS JOURNÉE POLITIQUE DE LA VILLE",
+        "category":"POLITIQUE",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Base Beauregard Sports nature",
+        "category":"FILM PROMOTIONNEL",
+        "image":"01.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"HAM PROD — Motion Design",
+        "category":"MOTION DESING",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"PIMMS-UNIR LA VILLE",
+        "category":"REPORTAGE",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"MARCHÉ DE NOËL HSC",
+        "category":"FÊTE",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"SHOWREEL HAM PRO-DRONE 2020",
+        "category":"Shoreel DEMO",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"ACTIVITÉES MJC HSC",
+        "category":"PROMO",
+        "image":"06.jpg",
+        "url":"https://www.youtube.com/watch?v=wPYVsY8E0Gs?@Activit%C3%A9es%20MJC%20HSC"
+      }
+    ]
+  }
+}
